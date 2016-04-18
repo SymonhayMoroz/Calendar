@@ -1,5 +1,5 @@
 # CalendarLib
-https://github.com/SymonhayMoroz/Calendar/blob/master/CalendarDocs/DayPlannerView.png
+
 [![Version](https://img.shields.io/cocoapods/v/CalendarLib.svg?style=flat)](http://cocoapods.org/pods/CalendarLib)
 [![License](https://img.shields.io/cocoapods/l/CalendarLib.svg?style=flat)](http://cocoapods.org/pods/CalendarLib)
 [![Platform](https://img.shields.io/cocoapods/p/CalendarLib.svg?style=flat)](http://cocoapods.org/pods/CalendarLib)
